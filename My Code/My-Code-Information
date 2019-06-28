@@ -1,2 +1,3 @@
 This code is just that which I wrote and which was used to create the program. Visual studio generates its own code to create the form 
 (e.g all designer files) which I did not directly write myself. That code can be found in the folder titled "Source Code".
+VS generated code only dealt with backend form creation and resource management.
