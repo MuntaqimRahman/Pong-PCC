@@ -1,3 +1,4 @@
 I was able to write some test code to test the most error-prone part of my program, the detection of where the ball will be so the
-single player paddle can automatically move to that point. Different starting positions were tested against known values.
+single player paddle can automatically move to that point. Different starting positions were tested against known values. This code can be
+found in Ball.cs in this folder.
 In the future, I would like to test this method more thoroughly and test methods such as the paddle detection and edge detection.
