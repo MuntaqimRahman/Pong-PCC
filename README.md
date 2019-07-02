@@ -11,3 +11,5 @@ written by me and can be found in both folders. However the "My Code" folder con
 To run the program, you can install the clickonce application or just run the .exe file. Both can be found in the "publish" folder. All
 controls and instructions for the game can be opened from the game menu once the application is run. I hope you enjoy looking through
 the code.
+
+2/06/2019 Update: Expanded ball test and readded publish file - changes window size on some computers and readding was used to check for the problem, the problem remains and needs to be assessed in the future
